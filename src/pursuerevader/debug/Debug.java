@@ -1,4 +1,4 @@
-package nl.uu.cs.ias.pursuerevader.debug;
+package pursuerevader.debug;
 
 /**
  * <p><b>Debug</b></p>

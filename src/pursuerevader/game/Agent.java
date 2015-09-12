@@ -1,12 +1,12 @@
-package nl.uu.cs.ias.pursuerevader.game;
+package pursuerevader.game;
 
 import java.awt.Color;
 import java.awt.geom.Point2D;
 import java.util.Random;
 
-import nl.uu.cs.ias.pursuerevader.math.Geometry;
-import nl.uu.cs.ias.pursuerevader.parameters.AgentProperties;
-import nl.uu.cs.ias.pursuerevader.parameters.GridProperties;
+import pursuerevader.math.Geometry;
+import pursuerevader.parameters.AgentProperties;
+import pursuerevader.parameters.GridProperties;
 
 /**
  * <p><b>Agent</b></p>
@@ -15,7 +15,7 @@ import nl.uu.cs.ias.pursuerevader.parameters.GridProperties;
  * This class is not accessible, but it might be useful to look through to gain understanding.<br />
  * For a list of methods that are accessible when playing the game, please see the <b>AgentListener</b> class</p>
  * 
- * @see nl.uu.cs.ias.pursuerevader.game.AgentListener
+ * @see pursuerevader.game.AgentListener
  * 
  * @author M.v.Zee
  */

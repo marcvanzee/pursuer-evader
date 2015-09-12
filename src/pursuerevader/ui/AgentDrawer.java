@@ -1,4 +1,4 @@
-package nl.uu.cs.ias.pursuerevader.ui;
+package pursuerevader.ui;
 
 import java.awt.Color;
 import java.awt.Graphics;
@@ -7,8 +7,8 @@ import java.awt.Panel;
 import java.util.HashSet;
 import java.util.Iterator;
 
-import nl.uu.cs.ias.pursuerevader.game.Agent;
-import nl.uu.cs.ias.pursuerevader.parameters.GridProperties;
+import pursuerevader.game.Agent;
+import pursuerevader.parameters.GridProperties;
 
 /**
  * <p><b>AgentDrawer class</b></p>

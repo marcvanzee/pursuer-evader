@@ -1,13 +1,13 @@
-package nl.uu.cs.ias.pursuerevader.game;
+package pursuerevader.game;
 
 import java.awt.geom.Point2D;
 import java.util.Random;
 
-import nl.uu.cs.ias.pursuerevader.math.Geometry;
-import nl.uu.cs.ias.pursuerevader.parameters.AgentProperties;
-import nl.uu.cs.ias.pursuerevader.parameters.StringMessage;
-import nl.uu.cs.ias.pursuerevader.parameters.GridProperties;
-import nl.uu.cs.ias.pursuerevader.ui.AgentDrawer;
+import pursuerevader.math.Geometry;
+import pursuerevader.parameters.AgentProperties;
+import pursuerevader.parameters.GridProperties;
+import pursuerevader.parameters.StringMessage;
+import pursuerevader.ui.AgentDrawer;
 
 /**
  * <p><b>Game class</b></p>
@@ -33,7 +33,7 @@ import nl.uu.cs.ias.pursuerevader.ui.AgentDrawer;
  * When the evader has not been caught within the time, the evader has won. Else, the pursuer has won. The winner
  * of a game is passed as an argument of the method roundEnded() that is sent to the GameCommunicator class.<br /><br />
  * 
- * @see nl.uu.cs.ias.pursuerevader.game.GameCommunicator
+ * @see pursuerevader.game.GameCommunicator
  * 
  * @author M.v.Zee
  *

@@ -1,4 +1,4 @@
-package nl.uu.cs.ias.pursuerevader.math;
+package pursuerevader.math;
 
 import java.awt.geom.Point2D;
 

@@ -1,4 +1,4 @@
-package nl.uu.cs.ias.pursuerevader.game;
+package pursuerevader.game;
 
 /**
  * <p><b>Receiver class</b></p>

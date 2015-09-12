@@ -1,4 +1,4 @@
-package nl.uu.cs.ias.pursuerevader.parameters;
+package pursuerevader.parameters;
 
 /**
  * <p><b>GridProperties class</b></p>

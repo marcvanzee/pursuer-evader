@@ -1,7 +1,7 @@
-package nl.uu.cs.ias.pursuerevader.game;
+package pursuerevader.game;
 
-import nl.uu.cs.ias.pursuerevader.parameters.GridProperties;
-import nl.uu.cs.ias.pursuerevader.ui.BaseGUI;
+import pursuerevader.parameters.GridProperties;
+import pursuerevader.ui.BaseGUI;
 
 /**
  * <p><b>GameCommunicator class</b></p>

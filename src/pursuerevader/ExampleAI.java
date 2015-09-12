@@ -1,8 +1,8 @@
-package nl.uu.cs.ias.pursuerevader;
+package pursuerevader;
 
-import nl.uu.cs.ias.pursuerevader.debug.Debug;
-import nl.uu.cs.ias.pursuerevader.game.GameCommunicator;
-import nl.uu.cs.ias.pursuerevader.parameters.GridProperties;
+import pursuerevader.debug.Debug;
+import pursuerevader.game.GameCommunicator;
+import pursuerevader.parameters.GridProperties;
 
 /**
  * <p><b>ExampleAI</b></p>
@@ -34,11 +34,11 @@ import nl.uu.cs.ias.pursuerevader.parameters.GridProperties;
  * To create the Self-Organizing Map, you will need to extract important information such as the speed and
  * location of the agents. Below is a list of classes where useful information can be found. We refer to 
  * the Javadoc of these classes for more detailed information:<br />
- * @see nl.uu.cs.ias.pursuerevader.game.AgentListener
- * @see nl.uu.cs.ias.pursuerevader.game.Game
- * @see nl.uu.cs.ias.pursuerevader.game.GameCommunicator
- * @see nl.uu.cs.ias.pursuerevader.parameters.GridProperties
- * @see nl.uu.cs.ias.pursuerevader.parameters.AgentProperties
+ * @see pursuerevader.game.AgentListener
+ * @see pursuerevader.game.Game
+ * @see pursuerevader.game.GameCommunicator
+ * @see pursuerevader.parameters.GridProperties
+ * @see pursuerevader.parameters.AgentProperties
  */
 public class ExampleAI extends GameCommunicator {
 	private static final long serialVersionUID = 3962525847855401824L;

@@ -1,7 +1,8 @@
-package nl.uu.cs.ias.pursuerevader.game;
+package pursuerevader.game;
 
 import java.awt.geom.Point2D;
-import nl.uu.cs.ias.pursuerevader.parameters.AgentProperties;
+
+import pursuerevader.parameters.AgentProperties;
 
 /**
  * <p><b>AgentListener</b></p>
@@ -12,7 +13,7 @@ import nl.uu.cs.ias.pursuerevader.parameters.AgentProperties;
  * When starting the game, both the evader and pursuer will have an AgentListener attached to them, which can
  * be used to retrieve all necessary information to implement a sophisticated AI.
  * 
- * @see nl.uu.cs.ias.pursuerevader.game.Agent
+ * @see pursuerevader.game.Agent
  * 
  * @author M.v.Zee
  *

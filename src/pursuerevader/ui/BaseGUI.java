@@ -1,4 +1,4 @@
-package nl.uu.cs.ias.pursuerevader.ui;
+package pursuerevader.ui;
 
 import java.awt.BorderLayout;
 import java.awt.event.ActionEvent;
@@ -9,7 +9,7 @@ import javax.swing.JMenuBar;
 import javax.swing.JMenuItem;
 import javax.swing.JOptionPane;
 
-import nl.uu.cs.ias.pursuerevader.parameters.GridProperties;
+import pursuerevader.parameters.GridProperties;
 
 /**
  * <p><b>BaseGUI</b></p>
